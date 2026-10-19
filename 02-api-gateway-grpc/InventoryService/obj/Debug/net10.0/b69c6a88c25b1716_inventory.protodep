@@ -1,0 +1,2 @@
+obj/Debug/net10.0/Inventory.cs \
+obj/Debug/net10.0/InventoryGrpc.cs: ../protos/inventory.proto

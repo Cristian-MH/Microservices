@@ -1,0 +1,20 @@
+syntax = "proto3";
+
+option csharp_namespace = "Microservices.Contracts.Catalog";
+
+package catalog;
+
+service Catalog {
+  rpc GetProduct (GetProductRequest) returns (Product);
+}
+
+message GetProductRequest {
+  string product_id = 1;
+}
+
+message Product {
+  string product_id = 1;
+  string name = 2;
+  string description = 3;
+  double price = 4;
+}

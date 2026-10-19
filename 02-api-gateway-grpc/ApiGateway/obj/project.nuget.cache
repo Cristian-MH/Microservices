@@ -1,0 +1,15 @@
+{
+  "version": 2,
+  "dgSpecHash": "zUPLcnwxl4M=",
+  "success": true,
+  "projectFilePath": "/Users/cristian/Source/Microservices/Microservices/02-api-gateway-grpc/ApiGateway/ApiGateway.csproj",
+  "expectedPackageFiles": [
+    "/Users/cristian/.nuget/packages/google.protobuf/3.29.3/google.protobuf.3.29.3.nupkg.sha512",
+    "/Users/cristian/.nuget/packages/grpc.core.api/2.71.0/grpc.core.api.2.71.0.nupkg.sha512",
+    "/Users/cristian/.nuget/packages/grpc.net.client/2.71.0/grpc.net.client.2.71.0.nupkg.sha512",
+    "/Users/cristian/.nuget/packages/grpc.net.clientfactory/2.71.0/grpc.net.clientfactory.2.71.0.nupkg.sha512",
+    "/Users/cristian/.nuget/packages/grpc.net.common/2.71.0/grpc.net.common.2.71.0.nupkg.sha512",
+    "/Users/cristian/.nuget/packages/grpc.tools/2.71.0/grpc.tools.2.71.0.nupkg.sha512"
+  ],
+  "logs": []
+}
