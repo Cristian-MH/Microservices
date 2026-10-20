@@ -13,7 +13,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("RetryCircuitBreaker")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+8794739a48f2725dd84023628512d9951b4dbc14")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+0695f67c423da58c80065a5835c145e340fcf6b9")]
 [assembly: System.Reflection.AssemblyProductAttribute("RetryCircuitBreaker")]
 [assembly: System.Reflection.AssemblyTitleAttribute("RetryCircuitBreaker")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]

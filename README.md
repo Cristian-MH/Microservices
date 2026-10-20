@@ -9,10 +9,12 @@ Small, runnable examples that explore common microservice and architecture patte
 | [01 - Retry and circuit breaker](01-retry-circuit-breaker/README.md) | Resilience | Retries transient failures with exponential backoff, opens a circuit after repeated failures, and uses a fallback while the dependency is unavailable. |
 | [02 - gRPC with API gateway](02-api-gateway-grpc/README.md) | API gateway | Routes public HTTP requests to separate Catalog and Inventory services over gRPC. |
 | [03 - gRPC with BFF gateway](03-bff-gateway-grpc/README.md) | Backend for frontend | Aggregates Catalog and Inventory gRPC responses into a frontend-specific product summary. |
+| [04 - Publisher / subscriber](04-publisher-subscriber/README.md) | Event-driven communication | Three services exchange order events through RabbitMQ, with Docker Compose, Prometheus, and Grafana. |
 
 ## Requirements
 
 - .NET 10 SDK
+- Example 04: Docker with Docker Compose (the SDK is optional when running everything in containers)
 
 ## Run an example
 
